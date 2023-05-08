@@ -1,8 +1,4 @@
-# mirror_wall
-
-A new Flutter project.
-
-This project is a starting point for a Flutter application.
+# Mirror_Wall
 
 Project Objectives:
 - To develop a mobile browser application using the Flutter framework and WebView
@@ -23,6 +19,10 @@ The aim of this project is to develop a mobile browser application using the Flu
 and WebView technology. The application will enable users to browse the internet within the app
 by using a WebView widget to display web content from websites.
 
+## Project Output :
+
+https://user-images.githubusercontent.com/131368253/236893088-d641d7de-2657-4389-beea-ed0004884bd0.mp4
+
 
 <img align="left" src="https://user-images.githubusercontent.com/131368253/236878956-98a66c2d-e629-4fb3-9045-9e1920489521.png" width="220px">
 <img align="left" src="https://user-images.githubusercontent.com/131368253/236878964-60523df8-a925-4950-a541-063f951b1b23.png" width="220px">
@@ -38,19 +38,3 @@ by using a WebView widget to display web content from websites.
 
 <img align="left" src="https://user-images.githubusercontent.com/131368253/236879043-1d588e25-6963-4807-aaad-64ad35c9b483.png" width="220px">
 
-
-
-
-
-
-## Getting Started
-
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
